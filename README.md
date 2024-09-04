@@ -81,7 +81,7 @@ The project uses an Indian Sign Language (ISL) dataset from Kaggle for training 
 ## Future Work 🧑‍🏭
 - Implement a more robust sign language recognition model.
 - Improve the accuracy and speed of the TTS and STS modules.
-- Expand the project to support multiple languages and dialects.
+- Expand project to support multiple languages and dialects.
 
 ## Contributing 🎮
 Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
