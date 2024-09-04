@@ -75,6 +75,9 @@ flowchart LR
 2. Run the Python notebooks or C/C++ files for testing individual components.
 3. Integrate the components into the central model.
 
+## Dataset 🗃️
+The project uses an Indian Sign Language (ISL) dataset from Kaggle for training and testing the sign language recognition model.
+
 ## Future Work 🧑‍🏭
 - Implement a more robust sign language recognition model.
 - Improve the accuracy and speed of the TTS and STS modules.
@@ -85,6 +88,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License 📃
 This project is licensed under the MIT License.
-
-
-
