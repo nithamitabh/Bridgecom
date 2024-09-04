@@ -1,0 +1,6 @@
+opencv-python==4.5.3.56
+tensorflow==2.9.1
+numpy==1.21.1
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
