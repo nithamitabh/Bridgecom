@@ -82,6 +82,8 @@ The project uses an Indian Sign Language (ISL) dataset from Kaggle for training 
 - Implement a more robust sign language recognition model.
 - Improve the accuracy and speed of the TTS and STS modules.
 - Expand project to support multiple languages and dialects.
+### Model
+![model](https://jupyter.org/try-jupyter/lab/index.html)
 
 ## Contributing 🎮
 Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
