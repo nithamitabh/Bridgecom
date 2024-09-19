@@ -23,7 +23,7 @@
 - **Programming Languages**: Python or C/C++ for developing the core application.
 - **Libraries**: 
   - `OpenCV`: For image and video processing.
-  - `TensorFlow` or `PyTorch`: For machine learning and sign language recognition.
+  - `TensorFlow` : For machine learning and sign language recognition.
   - `FFmpeg`: For multimedia processing.
 
 ### Connectivity 🤝
