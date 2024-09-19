@@ -36,7 +36,7 @@
 
 ```mermaid
 flowchart LR
-    subgraph Non-Hearing Impaired Person
+    subgraph Non-Hearing Impaired 
         A(Microphone) -- Input Message --> B(Raspberry Pico)
         B --> C(Model)
     end
@@ -82,8 +82,8 @@ The project uses an Indian Sign Language (ISL) dataset from Kaggle for training 
 - Implement a more robust sign language recognition model.
 - Improve the accuracy and speed of the TTS and STS modules.
 - Expand project to support multiple languages and dialects.
-### Model
-https://jupyter.org/try-jupyter/notebooks/?path=BridgComm_Model.ipynb
+## References
+https://www.kaggle.com/code/vedika22/starter-sign-language-mnist-8d927160-5
 
 ## Contributing 🎮
 Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
